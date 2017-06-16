@@ -4,6 +4,8 @@ Flick 3D Tracking and Gesture HAT for Raspberry Pi
 Sending Flick Gesture to MQTT-Server with following output:
 
 ```
+mosquitto_sub -h mqtt.unixweb.de  -v -t '#'
+
 flick FLICK-WE
 flick FLICK-EW
 flick FLICK-SN
