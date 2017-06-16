@@ -10,9 +10,9 @@
 #Changes: Created
 
 #needed commands
-#pip3 install paho-mqtt
+# pip3 install paho-mqtt
 # Run this line and Flick will be setup and installed
-curl -sSL https://pisupp.ly/flickcode | sudo bash
+# curl -sSL https://pisupp.ly/flickcode | sudo bash
 
 import signal
 import flicklib
