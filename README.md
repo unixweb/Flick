@@ -7,7 +7,7 @@ Flick 3D Tracking and Gesture HAT for Raspberry Pi
 -  Raspberry Pi 3<a href="http://amzn.to/2rzOfa2" target="_blank">- Link: Raspberry Pi</a>
 -  Flick Case for PI3 <a href="https://www.pi-supply.com/product/flick-hat-case/">- Link: Flick Case Pi3</a>
 
-
+# Software Setup:
 
 ```
 pip install paho-mqtt
