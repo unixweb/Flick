@@ -1,6 +1,17 @@
 # Flick
 Flick 3D Tracking and Gesture HAT for Raspberry Pi 
 
+Sending Flick Gesture to MQTT-Server with following output:
+
+```
+flick FLICK-WE
+flick FLICK-EW
+flick FLICK-SN
+flick FLICK-NS
+```
+
+More features comes soon. 
+
 # Hardware Setup:
 
 -  Flick HAT for Raspberry Pi <a href="https://www.pi-supply.com/product/flick-hat-3d-tracking-gesture-hat-raspberry-pi/" target="_blank">- Link: Flick HAT</a>
