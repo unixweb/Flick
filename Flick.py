@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: <utf-8> -*-
 
 #Author: Callum Pritchard, Joachim Hummel
@@ -10,7 +10,7 @@
 #Changes: Created
 
 #needed commands
-# pip3 install paho-mqtt
+# pip install paho-mqtt
 # Run this line and Flick will be setup and installed
 # curl -sSL https://pisupp.ly/flickcode | sudo bash
 
